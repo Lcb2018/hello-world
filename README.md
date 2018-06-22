@@ -1,2 +1,3 @@
 # hello-world
-lcb的第一个存储库
+LCB的第一个存储库
+这是我第一次接触GIT。
